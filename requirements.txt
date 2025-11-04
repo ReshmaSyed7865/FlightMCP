@@ -1,0 +1,9 @@
+yfinance
+asyncio
+langchain-mcp-adapters
+langchain-openai
+langgraph
+fastmcp
+langchain
+langchain_community
+langchain_ollama
